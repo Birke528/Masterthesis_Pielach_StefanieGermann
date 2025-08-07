@@ -1,0 +1,5 @@
+ipywidgets
+rasterio
+matplotlib
+HTML
+jupyter_contrib_nbextensions
