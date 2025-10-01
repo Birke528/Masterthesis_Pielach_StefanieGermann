@@ -1,6 +1,2 @@
 ipywidgets
-ipython
-rasterio
-numpy
-matplotlib
-notebook
+IPython
